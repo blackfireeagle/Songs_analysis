@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+nltk==3.8.1
+wordcloud==1.9.3
+lyricsgenius==3.0.1
+Pillow==10.3.0
+plotly==5.18.0
+dash==2.16.1
+textstat==0.7.7
+pyphen==0.17.2
+cmudict==1.0.32
+importlib-resources==6.5.2
